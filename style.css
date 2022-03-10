@@ -1,0 +1,18 @@
+body {
+  background: white;
+}
+p {
+  color: deepskyblue;
+  font-family: sans-serif
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color:red;
+  letter-spacing: 5px;
+}
+h2 {
+  color:limegreen;
+  text-decoration: underline
+  
+}
